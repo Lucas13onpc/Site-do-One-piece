@@ -1,0 +1,28 @@
+#foto{
+    height: 250px;
+
+
+}
+
+body{
+background-color: rgb(50, 129, 105);
+text-align: center;
+}
+.menu{
+    list-style: none;
+    position:fixed;
+    background: rgb(255, 255, 255);
+    width: 100%;
+    margin-top:0px;
+    top:0px;
+
+}
+
+.links{
+    padding-left: 10px;
+    padding-right: 0px;
+}
+
+.links:hover{
+    font-size:25px;
+}
